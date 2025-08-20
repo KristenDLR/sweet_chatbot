@@ -1,6 +1,6 @@
 # sweet_chatbot
 
-## Instalation
+## Installation
 
 ### Prerequisites
 
