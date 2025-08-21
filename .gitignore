@@ -45,3 +45,4 @@ Thumbs.db
 # ChromaDB local storage
 # ======================
 data/chroma_db/
+/data/
