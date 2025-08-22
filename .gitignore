@@ -10,6 +10,7 @@ __pycache__/
 *.egg
 *.manifest
 *.spec
+.env
 
 # ======================
 # Virtual Environments
@@ -17,6 +18,7 @@ __pycache__/
 venv/
 env/
 .env/
+chatbot_env/
 .venv/
 
 # ======================
